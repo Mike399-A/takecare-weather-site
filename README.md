@@ -17,4 +17,4 @@ Takecare is a unique and fun weather website that provides real-time weather upd
 ## ⚡️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/takecare-weather-site.git
+   git clone https://github.com/your-Mike399-A/takecare-weather-site.git
